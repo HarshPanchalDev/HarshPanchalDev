@@ -18,7 +18,7 @@
 ## 👨‍💻 About Me
 
 - 🔭 Currently working on **[Sringus Biotech Pvt Ltd](https://github.com/HarshPanchalDev/Sringus-Biotech)**
-- 🌱 Currently learning **Generative AI**
+- 🌱 Diving into **Generative AI**
 - 👯 Looking to collaborate on **[Learning Hub](https://github.com/HarshPanchalDev/Learning-Hub)**
 - 🤝 Looking for help with **[Sringus Biotech CRM](https://github.com/HarshPanchalDev/Sringus-Biotech)**
 - 💼 **1+ year** of professional experience in Full Stack Development
